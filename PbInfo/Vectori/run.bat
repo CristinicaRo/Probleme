@@ -1,0 +1,1 @@
+g++ Paritate1.cpp -o Paritate1.exe
